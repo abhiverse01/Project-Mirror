@@ -1,20 +1,18 @@
 
-<body>
+# Project-Mirror
 
-<h1>Project-Mirro</h1>
+- This guide will help you mirror your mobile phone screen on your desktop using ADB (Android Debug Bridge) and <code>scrcpy</code>. Follow the steps below to set up and run the tools.</p>
 
-<p>This guide will help you mirror your mobile phone screen on your desktop using ADB (Android Debug Bridge) and <code>scrcpy</code>. Follow the steps below to set up and run the tools.</p>
-
-<h2>Requirements</h2>
+## Requirements
 <ul>
     <li>Android device with Developer Options enabled.</li>
     <li>USB cable to connect your phone to your desktop.</li>
     <li>A computer running Windows with ADB and <code>scrcpy</code> installed.</li>
 </ul>
 
-<h2>Steps</h2>
+## Steps
 
-<h3>Mobile Setup</h3>
+### Mobile Setup
 <ol>
     <li>
         <strong>Enable Developer Options</strong>:
@@ -38,7 +36,7 @@
     </li>
 </ol>
 
-<h3>Desktop Setup</h3>
+### Desktop Setup
 <ol>
     <li>
         <strong>Download and Extract Files</strong>:
@@ -80,7 +78,7 @@
     </li>
 </ol>
 
-<h3>Running scrcpy</h3>
+### Running scrcpy.exe
 <ol>
     <li>
         <strong>Execute scrcpy</strong>:
@@ -98,7 +96,7 @@
     </li>
 </ol>
 
-<h2>Troubleshooting</h2>
+## Troubleshooting
 <ul>
     <li>If you encounter connection issues, ensure both your desktop and mobile device are on the same network.</li>
     <li>Ensure no firewalls or network security settings are blocking the connection.</li>
@@ -108,7 +106,5 @@
     </li>
 </ul>
 
-<p>By following these steps, you should be able to successfully mirror your mobile phone screen on your desktop. Enjoy using <code>scrcpy</code> for a seamless mirroring experience!</p>
+<p> By following these steps, you should be able to successfully mirror your mobile phone screen on your desktop. Enjoy using <code>scrcpy</code> for a seamless mirroring experience!</p>
 
-</body>
-</html>
