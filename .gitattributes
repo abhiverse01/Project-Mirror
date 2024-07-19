@@ -1,0 +1,4 @@
+*.txt text
+*.conf text
+*.bat text eol=crlf
+*.sh text eol=lf
