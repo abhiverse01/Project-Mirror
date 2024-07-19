@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project-Mirror</title>
-</head>
+
 <body>
 
-<h1>Mobile Phone Mirroring to Desktop</h1>
+<h1>Project-Mirro</h1>
 
 <p>This guide will help you mirror your mobile phone screen on your desktop using ADB (Android Debug Bridge) and <code>scrcpy</code>. Follow the steps below to set up and run the tools.</p>
 
